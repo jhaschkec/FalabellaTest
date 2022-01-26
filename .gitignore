@@ -1,0 +1,19 @@
+# IDES
+.idea
+
+# MAC OS
+.DS_store
+
+# LOGS
+Report/*
+log.html
+output.xml
+report.html
+*.png
+
+# PYTHON
+__pycache__
+.venv
+
+# VISUAL STUDIO
+.vscode
